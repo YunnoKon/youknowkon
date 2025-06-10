@@ -102,7 +102,9 @@ body {
 
 .dot-matrix {
     font-size:0.1rem;
-    margin: 0 32rem;
+    margin: auto;
+    width:5%;
+    text-align: center;
     color: var(--text-primary);
 }
 
